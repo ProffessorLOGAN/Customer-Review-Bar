@@ -1,8 +1,8 @@
 .section{
     display: flex;
     flex-direction: row;
-    padding-left: 20%;
-    padding-top: 7%;
+    padding-left: 10%;
+    padding-top: 4%;
 }
 .box{
     text-align: center;
